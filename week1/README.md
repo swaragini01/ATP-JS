@@ -7,7 +7,7 @@ Welcome to the repository for Week 1 core assignments. This week focused on ceme
 
 ---
 
-## 🚀 How to Run These Files
+##  How to Run These Files
 
 Ensure you have [Node.js](https://nodejs.org/) installed on your local system.
 
@@ -20,7 +20,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your local system.
 
 ---
 
-## 📚 What We Learned & Implemented
+##  What We Learned & Implemented
 
 The assignments are strategically divided into three key pillars of foundational JavaScript programming:
 
