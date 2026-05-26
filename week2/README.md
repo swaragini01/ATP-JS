@@ -11,7 +11,7 @@ The architecture isolates concerns across inventory records, shopping cart mutat
 
 ---
 
-## 📂 Project Folder Structure
+##  Project Folder Structure
 
 The project is structured modularly to separate business logic and ensure code maintainability:
 
@@ -27,7 +27,7 @@ E-commerce shopping cart/
 
 ---
 
-## 🛠️ Module Breakdowns & Logic Layout
+##  Module Breakdowns & Logic Layout
 
 ### 1. Catalog & Inventory Controller (`product.js`)
 
@@ -78,7 +78,7 @@ Coordinates the structural bridge across all other active files to execute order
 
 ---
 
-## 🔄 The Simulation Flow (`main.js`)
+##  The Simulation Flow (`main.js`)
 
 The project's execution logic simulates a complete user checkout lifecycle:
 
@@ -99,7 +99,7 @@ graph TD
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 Ensure you have Node.js installed. Since this system utilizes modern native ES6 modules, make sure you have `"type": "module"` specified in your base `package.json` file.
 
